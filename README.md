@@ -1,6 +1,6 @@
 # Combate ao abandono de animais
 
-!.[Capa](https://github.com/PedroHFLara/combate_ao_abandono_de_animais.wiki.git)
+<img src= 'C:\Users\Pichau\Documents\CAA\Fotos'>
 
 # Sobre 
 
