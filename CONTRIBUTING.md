@@ -1,4 +1,3 @@
-
 # Código de Conduta de Colaboração
 
 ## Nossa promessa
