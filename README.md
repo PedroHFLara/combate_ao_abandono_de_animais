@@ -20,14 +20,17 @@ Este grupo vem apresentar neste repositório formas de combater o abandono de an
 
 
 # Requisitos Funcionais 
+
 Não criado.
 
 # Tecnologias Usadas
+
 Por enquanto nenhuma.
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) 
+para nós.
 
 # Autores
 
