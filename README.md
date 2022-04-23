@@ -34,7 +34,6 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 * https://github.com/PedroHFLara
-* @PedroHFLara
 * https://github.com/ArturPassosMoreira
 * https://github.com/BernardoLCosta
 * https://github.com/VictorMCosta
