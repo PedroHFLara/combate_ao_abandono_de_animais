@@ -36,10 +36,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-Pedro Henrique Ferreira Lara
-Artur Passos Moreira
-Bernardo Lionardo Costa
-Victor Mendes Amaral Costa
+* Pedro Henrique Ferreira Lara
+* Artur Passos Moreira
+* Bernardo Lionardo Costa
+* Victor Mendes Amaral Costa
 
 # Licença
 
