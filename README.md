@@ -1,6 +1,6 @@
 # Combate ao abandono de animais
 
-![Capa do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fobservatorio3setor.org.br%2Fcarrossel%2Fpico-de-abandono-de-animais-ocorre-durante-as-ferias-de-verao%2F&psig=AOvVaw1KQuaiEZYRjyt4OP6QugxS&ust=1650764194083000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj_6rKFqfcCFQAAAAAdAAAAABAJ)
+!.[Capa do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fobservatorio3setor.org.br%2Fcarrossel%2Fpico-de-abandono-de-animais-ocorre-durante-as-ferias-de-verao%2F&psig=AOvVaw1KQuaiEZYRjyt4OP6QugxS&ust=1650764194083000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj_6rKFqfcCFQAAAAAdAAAAABAJ)
 
 # Sobre 
 
