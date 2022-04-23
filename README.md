@@ -1,6 +1,6 @@
 # Combate ao abandono de animais
 
-<img src='C:\Users\Pichau\Documents\CAA\Fotos'>
+![capa](https://user-images.githubusercontent.com/103151820/164866090-006d5e4b-3bc3-4b54-9387-58a8e9ea84cc.jpg)
 
 # Sobre 
 
