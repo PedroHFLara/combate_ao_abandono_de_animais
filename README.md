@@ -33,10 +33,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-* Pedro Henrique Ferreira Lara
+* https://github.com/PedroHFLara
 * https://github.com/ArturPassosMoreira
-* Bernardo Lionardo Costa
-* Victor Mendes Amaral Costa
+* https://github.com/BernardoLCosta
+* https://github.com/VictorMCosta
 
 # Licença
 
