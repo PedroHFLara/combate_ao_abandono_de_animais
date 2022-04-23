@@ -6,9 +6,6 @@
 
 Este grupo vem apresentar neste repositório formas de combater o abandono de animais.
 
-<h4 align="center"> 
-	  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
