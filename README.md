@@ -4,8 +4,7 @@
 
 # Sobre 
 
-Este grupo vem apresentar neste repositório formas de combater o abandono de animais.
-
+Não abandone quem nunca abandonará você.
 
 # Índice/Sumário
 
