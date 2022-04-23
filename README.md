@@ -1,6 +1,6 @@
 # Combate ao abandono de animais
 
-![Capa do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomunicadores.info%2Femocionante-filme-abandono-de-animais%2F&psig=AOvVaw1KQuaiEZYRjyt4OP6QugxS&ust=1650764194083000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj_6rKFqfcCFQAAAAAdAAAAABAD)
+![Capa do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fobservatorio3setor.org.br%2Fcarrossel%2Fpico-de-abandono-de-animais-ocorre-durante-as-ferias-de-verao%2F&psig=AOvVaw1KQuaiEZYRjyt4OP6QugxS&ust=1650764194083000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj_6rKFqfcCFQAAAAAdAAAAABAJ)
 
 # Sobre o Projeto
 
@@ -36,7 +36,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+Pedro Henrique Ferreira Lara
+Artur Passos Moreira
+Bernardo Lionardo Costa
+Victor Mendes Amaral Costa
 
 # Licença
 
