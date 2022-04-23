@@ -1,2 +1,8 @@
 # combate_ao_abandono_de_animais
-Este grupo vem apresentar formas para que o abandono de animais diminua drasticamente.
+
+
+
+Este grupo vem apresentar neste repositório, formas para combater o abandono de animais.
+
+                          Em desenvolvimento...                        
+
