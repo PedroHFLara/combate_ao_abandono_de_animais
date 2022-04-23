@@ -1,6 +1,6 @@
 # Combate ao abandono de animais
 
-!.[Capa do Projeto](https://observatorio3setor.org.br/wp-content/uploads/2017/12/1-Abandono-720x400.jpg)
+!.[Capa do Projeto](https://camo.githubusercontent.com/f793897ae31c85ec93f322913d4c822f07e19a5adf1dd6acea572a0c7bdac51d/68747470733a2f2f70696373756d2e70686f746f732f3835302f323830)
 
 # Sobre 
 
