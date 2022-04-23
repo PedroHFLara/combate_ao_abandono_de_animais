@@ -21,7 +21,7 @@ Este grupo vem apresentar neste repositório formas de combater o abandono de an
 
 # Requisitos Funcionais 
 
-Não criado.
+Por enquanto nenhum.
 
 # Tecnologias Usadas
 
