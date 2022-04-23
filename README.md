@@ -42,6 +42,8 @@ para nós.
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+npm version patch
+npm publish
 
 # Agradecimentos
 
